@@ -1,6 +1,6 @@
 `wecom_bot_msg` is a simple wrapper for WeCom (Worker Wechat ) group bot API, to send text, image, audio, files etc in groups, check [official docs](https://developer.work.weixin.qq.com/document/path/91770) for more information.
 
-`wecom_bot_msg` 是给企业微信群机器人API的封装，用作发送文本、图片、语音、文件等各类消息，更多信息可以查看[官方文档](https://developer.work.weixin.qq.com/document/path/91770)
+`wecom_bot_msg` 是给企业微信群机器人 API 的封装，用作发送文本、图片、语音、文件等各类消息，更多信息可以查看[官方文档](https://developer.work.weixin.qq.com/document/path/91770)
 
 # Installation
 
